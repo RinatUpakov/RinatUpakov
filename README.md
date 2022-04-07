@@ -6,7 +6,12 @@
 ____
 
 <p>My current skills:</p>  
-<a><img src="https://github.com/RinatUpakov/RinatUpakov/blob/main/git.svg"  alt="GIT" title="GIT" width="120" style="user-select: none"/></a>
+<div><img src="https://simpleicons.org/icons/git.svg"  alt="GIT" title="GIT" width="120" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/windowsterminal.svg"  alt="windowsterminal" title="Linux and Windows terminal" width="120" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/postgresql.svg"  alt="postgresql" title="PostgreSQL" width="120" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/postman.svg"  alt="postman" title="Postman" width="120" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/javascript.svg"  alt="javascript" title="JavaScript basics" width="120" style="user-select: none"/></div>
+<p>The list will be updated...</p>
 
 <!--
 **RinatUpakov/RinatUpakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
