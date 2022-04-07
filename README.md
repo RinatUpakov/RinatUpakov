@@ -1,6 +1,12 @@
-<h1 align="center"> Hi 👋, I'm Rinat Upakov</h1>
+<h1 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong></h1>
 
+<p align="center">I am studying at the author's course of Vadim Ksenzov.</p>  
+<p align="center">This profile is used to save completed homework.</p>
 
+____
+
+<p>My current skills:</p>  
+<a><img src="https://github.com/RinatUpakov/RinatUpakov/blob/main/git.svg"  alt="GIT" title="GIT" width="120" style="user-select: none"/></a>
 
 <!--
 **RinatUpakov/RinatUpakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
