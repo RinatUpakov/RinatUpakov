@@ -21,7 +21,7 @@ ____
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=090835&background=FCFCFC&center=true&vCenter=true&lines=This+profile+is+under+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=090835&background=FCFCFC&center=true&vCenter=true&lines=This+profile+is+under+development...)](https://git.io/typing-svg)
 
 <!--
 **RinatUpakov/RinatUpakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
