@@ -7,13 +7,13 @@
 ____
 
 <p>My current skills:</p>  
-<div><img src="https://simpleicons.org/icons/git.svg"  alt="GIT" title="GIT and GitHub" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/windowsterminal.svg"  alt="windowsterminal" title="Linux and Windows terminal" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/postgresql.svg"  alt="postgresql" title="PostgreSQL" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/postman.svg"  alt="postman" title="Postman" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/javascript.svg"  alt="javascript" title="JavaScript basics" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/apachejmeter.svg"  alt="JMeter" title="Load testing" width="120" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/androidstudio.svg"  alt="AndroidStudio" title="Mobile testing" width="120" style="user-select: none"/>
+<div><img src="https://simpleicons.org/icons/git.svg"  alt="GIT" title="GIT and GitHub" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/windowsterminal.svg"  alt="windowsterminal" title="Linux and Windows terminal" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/postgresql.svg"  alt="postgresql" title="PostgreSQL" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/postman.svg"  alt="postman" title="Postman" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/javascript.svg"  alt="javascript" title="JavaScript basics" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/apachejmeter.svg"  alt="JMeter" title="Load testing" width="110" style="user-select: none"/>
+<img src="https://simpleicons.org/icons/androidstudio.svg"  alt="AndroidStudio" title="Mobile testing" width="110" style="user-select: none"/>
 </div>  
 
 
