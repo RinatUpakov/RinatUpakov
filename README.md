@@ -37,7 +37,7 @@ ____
 
 [Postman](https://github.com/RinatUpakov/Postman/blob/5a5bd2fe1d014221978eff81a916f6c174f3c442/README.md)
 
-[SQL](https://github.com/RinatUpakov/SQL/blob/c6826ac53f04301165151087db4d63b97732d6f0/README.md)
+[SQL](https://github.com/RinatUpakov/SQL/blob/35e1253946ca695e4c4b754509abb35b40e8b9d4/README.md)
 
 [DevTools](https://github.com/RinatUpakov/DevTools/blob/887a947bba35d4811101df5eb1aca81a2a7577da/README.md)
 
