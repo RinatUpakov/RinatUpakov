@@ -33,9 +33,9 @@ ____
 
 [Пример баг репорта в TXT](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.txt) 
 
-[JavaScript](https://github.com/RinatUpakov/JavaScript/blob/534779b7a81dd839faa7d5713fb9455ea4e34b20/README.md)
+[JavaScript](https://github.com/RinatUpakov/JavaScript/blob/fa085583b1ac290dad5bdce7e2b8fb87368cb891/README.md)
 
-[Postman](https://github.com/RinatUpakov/Postman/blob/e517d23ab69baa819cc4188ab260a05b926b705a/README.md)
+[Postman](https://github.com/RinatUpakov/Postman/blob/5a5bd2fe1d014221978eff81a916f6c174f3c442/README.md)
 
 [SQL](https://github.com/RinatUpakov/SQL/blob/c6826ac53f04301165151087db4d63b97732d6f0/README.md)
 
