@@ -24,8 +24,24 @@ ____
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=090835&background=FCFCFC&center=true&vCenter=true&lines=This+profile+is+under+development...)](https://git.io/typing-svg)
+### Ссылки на выполненные работы:
+[Linux Terminal](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/README.md) 
 
+[Пример баг репорта в JSON](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.json) 
+
+[Пример баг репорта в XML](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.xml) 
+
+[Пример баг репорта в TXT](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.txt) 
+
+[JavaScript](https://github.com/RinatUpakov/JavaScript/blob/534779b7a81dd839faa7d5713fb9455ea4e34b20/README.md)
+
+[Postman](https://github.com/RinatUpakov/Postman/blob/e517d23ab69baa819cc4188ab260a05b926b705a/README.md)
+
+[SQL](https://github.com/RinatUpakov/SQL/blob/c6826ac53f04301165151087db4d63b97732d6f0/README.md)
+
+[DevTools](https://github.com/RinatUpakov/DevTools/blob/887a947bba35d4811101df5eb1aca81a2a7577da/README.md)
+
+[JMeter](https://github.com/RinatUpakov/JMeter/blob/70cfa949b43bcccd2af3241a93e13fc1f59c4578/README.md)
 <!--
 **RinatUpakov/RinatUpakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
