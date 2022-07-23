@@ -27,11 +27,11 @@ ____
 ### Ссылки на выполненные работы:
 [Linux Terminal](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/README.md) 
 
-[Пример баг репорта в JSON](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.json) 
+[Пример баг репорта в JSON](https://github.com/RinatUpakov/LinuxTerminal/blob/a63bbf96082cdb168004e442a02092e2d922f1d9/bug_report.json) 
 
-[Пример баг репорта в XML](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.xml) 
+[Пример баг репорта в XML](https://github.com/RinatUpakov/LinuxTerminal/blob/a63bbf96082cdb168004e442a02092e2d922f1d9/bug_report.xml) 
 
-[Пример баг репорта в TXT](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/bug_report.txt) 
+[Пример баг репорта в TXT](https://github.com/RinatUpakov/LinuxTerminal/blob/a63bbf96082cdb168004e442a02092e2d922f1d9/bug_report.txt) 
 
 [JavaScript](https://github.com/RinatUpakov/JavaScript/blob/fa085583b1ac290dad5bdce7e2b8fb87368cb891/README.md)
 
