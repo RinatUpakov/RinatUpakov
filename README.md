@@ -25,6 +25,7 @@ ____
 
 
 ### Ссылки на выполненные работы:
+[Чек лист проверки функциональности мобильного приложения](https://docs.google.com/spreadsheets/d/1w_XG_zcYUX2scg5EasHOPxcC-jSxB2B6n7cfMVSQC14/edit?usp=sharing)
 [Linux Terminal](https://github.com/RinatUpakov/LinuxTerminal/blob/cd9b9f15214ae1837dc6afc45659c5f39d8afefb/README.md) 
 
 [Пример баг репорта в JSON](https://github.com/RinatUpakov/LinuxTerminal/blob/bc2cfb7990c359d3c4fc2e34672bee4df36fb1ba/bug_report.json) 
