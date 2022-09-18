@@ -18,7 +18,6 @@ ____
 
 
 
-<p>This list is updated regularly...</p>
 
 ____
 
