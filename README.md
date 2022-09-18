@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong></h1>
 
-<p align="center">I am studying at the author's course of Vadim Ksenzov.</p>  
-<p align="center">This profile is used to save completed homework.</p>
+<p align="center">QA engineer with commercial experience.</p>  
+
 
 
 ____
