@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/RinatUpakov/RinatUpakov/blob/83876e4a133a39a9d7e8031a56c8c7f24c4ed276/assets/workPlace.jpg)
 
 <h1 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong></h1>
 
