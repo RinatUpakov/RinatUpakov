@@ -3,7 +3,7 @@
 <h2 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong></h1>
 <h3 align="center">Really passionate about software quality assurance.</h3>   
 
-- Aways learning and looking for new ways.  
+- Always learning and looking for new ways.  
 - Have an active life position.  
 - Love cats and play sports.
 
