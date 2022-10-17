@@ -22,7 +22,7 @@ ____
 ____
 
 ### Connect with me:
-LinkedIn, Telegram
+[![LinkedIn](https://github.com/RinatUpakov/RinatUpakov/blob/32e8583f65bb06f1e2d7c1cefff738b403ddcf45/assets/linkedin.svg)](https://www.linkedin.com/in/upakovrinat)  [![Telegram](https://github.com/RinatUpakov/RinatUpakov/blob/32e8583f65bb06f1e2d7c1cefff738b403ddcf45/assets/telegram.svg)](https://t.me/RNikto)
 ____
 
 
