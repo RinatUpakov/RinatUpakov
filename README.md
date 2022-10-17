@@ -1,6 +1,6 @@
 ![Header](https://github.com/RinatUpakov/RinatUpakov/blob/83876e4a133a39a9d7e8031a56c8c7f24c4ed276/assets/workPlace.jpg)
 
-<h2 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong><h1>
+<h2 align="center"> Hi 👋, I'm <strong>Rinat Upakov</strong></h1>
 <h3 align="center">Really passionate about software quality assurance.</h3>   
 
 - Aways learning and looking for new ways.  
