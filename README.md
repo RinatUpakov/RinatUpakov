@@ -9,20 +9,29 @@
 
 ____
 
-<p>Tools and skills:</p>  
-<div><img src="https://simpleicons.org/icons/git.svg"  alt="GIT" title="GIT and GitHub" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/windowsterminal.svg"  alt="windowsterminal" title="Linux and Windows terminal" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/postgresql.svg"  alt="postgresql" title="PostgreSQL" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/postman.svg"  alt="postman" title="Postman" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/javascript.svg"  alt="javascript" title="JavaScript basics" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/apachejmeter.svg"  alt="JMeter" title="Load testing" width="110" style="user-select: none"/>
-<img src="https://simpleicons.org/icons/androidstudio.svg"  alt="AndroidStudio" title="Mobile testing" width="110" style="user-select: none"/>
-</div>  
+### Tools and skills:  
+
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git)
+![LinuxBash](https://img.shields.io/badge/LinuxBash-101010?style=for-the-badge&logo=linux)
+![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=PostgreSQL)
+![Postman](https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=Postman)
+![SoapUI](https://img.shields.io/badge/SoapUI-101010?style=for-the-badge&logo=soapui)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-101010?style=for-the-badge&logo=charlesproxy)
+![Fiddler](https://img.shields.io/badge/Fiddler-101010?style=for-the-badge&logo=fiddler)
+![JMeter](https://img.shields.io/badge/Jmeter-101010?style=for-the-badge&logo=Apachejmeter)
+![Android Studio](https://img.shields.io/badge/Android_Studio-101010?style=for-the-badge&logo=androidstudio)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-101010?style=for-the-badge&logo=googlechrome)
+![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript)
+![Testing Theory](https://img.shields.io/badge/Testing_Theory-101010?style=for-the-badge&logo=Testing)
+
+
+
+
 
 ____
 
 ### Connect with me:
-[![LinkedIn](https://github.com/RinatUpakov/RinatUpakov/blob/32e8583f65bb06f1e2d7c1cefff738b403ddcf45/assets/linkedin.svg)](https://www.linkedin.com/in/upakovrinat)  [![Telegram](https://github.com/RinatUpakov/RinatUpakov/blob/32e8583f65bb06f1e2d7c1cefff738b403ddcf45/assets/telegram.svg)](https://t.me/RNikto)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-004182?style=social&logo=linkedin)](https://www.linkedin.com/in/upakovrinat)   [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=social&logo=telegram)](https://t.me/RNikto)
 ____
 
 
