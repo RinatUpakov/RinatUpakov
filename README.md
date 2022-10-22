@@ -31,7 +31,8 @@ ____
 ____
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/Linkedin-004182?style=social&logo=linkedin)](https://www.linkedin.com/in/upakovrinat)   [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=social&logo=telegram)](https://t.me/RNikto)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-004182?style=social&logo=linkedin)](https://www.linkedin.com/in/upakovrinat)   [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=social&logo=telegram)](https://t.me/RNikto) 
+[![GMail](https://img.shields.io/badge/GMail-000000?style=social&logo=gmail)](mailto:upakovrinat1992@gmail.com)
 ____
 
 
